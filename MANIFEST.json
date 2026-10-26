@@ -1,0 +1,260 @@
+{
+  "format": 1,
+  "files": [
+    {
+      "path": ".gitignore",
+      "size": 533,
+      "sha256": "ddcc3a494688972ac97f3010a3b98f4de47a3148c2556473f734b5c6d071c31f"
+    },
+    {
+      "path": "examples/candidate-data.example.json",
+      "size": 306,
+      "sha256": "d8a58c45099b48e6321e2b5aa02ade2757f61b8791d6fa1b240448da23724d5a"
+    },
+    {
+      "path": "examples/screening.example.json",
+      "size": 81,
+      "sha256": "7962320bc2b49b12275e983e1f8a025414ded4d28f3b376ad35d55d0ee7190c3"
+    },
+    {
+      "path": "examples/workspace-config.example.json",
+      "size": 262,
+      "sha256": "dda9811f94350374f702f981760eca9fee2d118a9d4e5edec1a3d2bd71c8b9b9"
+    },
+    {
+      "path": "integrations/boss-crawler.md",
+      "size": 887,
+      "sha256": "5cc9170d8a95c94261c494339e5ca10c86663c4c53338a8bd2617810f20525ea"
+    },
+    {
+      "path": "LICENSE",
+      "size": 1165,
+      "sha256": "0ffaa4b63de19336c64b636c4efe6e807c51cfed7c19ec86ebffc1afbddc304c"
+    },
+    {
+      "path": "PRIVACY_REVIEW.md",
+      "size": 1596,
+      "sha256": "09e2632e631133cadbaa3cfa6c1057baf150a14acaa00b8f64cd6c22a30b27a8"
+    },
+    {
+      "path": "README.md",
+      "size": 3865,
+      "sha256": "96a644d0dbae91b27280eb9e23b61eaaf69d36d34b9c2279c549adc5d0cf95bf"
+    },
+    {
+      "path": "scripts/check_public_package.py",
+      "size": 4369,
+      "sha256": "434111ddf8efa6c0dfa4225c26b1cfa67d1b59aaab7b08d53c8cd7b2a6ad8fa5"
+    },
+    {
+      "path": "skills/company-job-screening/agents/openai.yaml",
+      "size": 337,
+      "sha256": "f368d53beb234bbc478abd10fa52e12a3a5e6ce4de9da3eeb5c340ffb828f08d"
+    },
+    {
+      "path": "skills/company-job-screening/references/persistence.md",
+      "size": 1878,
+      "sha256": "66226278eca585c7618a8eee6e2baf03eb87aaa0290b5c419f046e300d3ada3c"
+    },
+    {
+      "path": "skills/company-job-screening/references/workspace.md",
+      "size": 1675,
+      "sha256": "4f678ec20f82626c540a9aab7f28d7e12e837f3ea978b4565f6a21c747fef369"
+    },
+    {
+      "path": "skills/company-job-screening/scripts/inspect_state.py",
+      "size": 3540,
+      "sha256": "3dd315385ae137a9d1c7e3ab60b0d6b8715144b6fdca7c3f8b2b230275b2866e"
+    },
+    {
+      "path": "skills/company-job-screening/SKILL.md",
+      "size": 5398,
+      "sha256": "94ff6e3f552bd87be40fa173a4ece45513c08975436bfa8e47e6b09d29760243"
+    },
+    {
+      "path": "skills/jobhuntbot/.gitignore",
+      "size": 143,
+      "sha256": "8a10af04560810af31a040708528c494f0881ce742fb56bc4422ba455a90e0aa"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/application_log.csv",
+      "size": 142,
+      "sha256": "40dda41810a4120b8a80730c2d377554d60fa4b342eea711944c0fd818f54a85"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/automation_rules.csv",
+      "size": 64,
+      "sha256": "1c8083bdd388c06057da4048657c19020a1ec66b480b0c46dbe80ebc9c7665bb"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/blocker_queue.csv",
+      "size": 131,
+      "sha256": "ede3ab5b634d8217047714d667cdcc888942761d1d6f33149df28960bc236eb6"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/daily_dashboard.csv",
+      "size": 133,
+      "sha256": "899cb1335270962287fd251c5ef331237256efc156ce92b24b9096ffbbec68ce"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/dashboard.html",
+      "size": 42935,
+      "sha256": "8b73c3bef29b91cb6f5caf32c1bb7ff67a3bf7cfe1289ddfac6e2b3bce4e8be0"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/follow_up.csv",
+      "size": 90,
+      "sha256": "94e536ecbfea2829204a920ff2117870adbc60aa953fa3d1f8e5f094365071d4"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/job_pool.csv",
+      "size": 201,
+      "sha256": "7e7d85eba9c9b627293eb301cdccfc9654185d9848a4b6cffb42d928561f5bfd"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/resume_rules.csv",
+      "size": 85,
+      "sha256": "b5be545c5c0736db5911285c610f29fb64a755a18a02b3949cd939412d778923"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/server.js",
+      "size": 15413,
+      "sha256": "a74bc679f2cef5a7f7971edbce3029584e2e5ede24b144f5fc238fa954df94d8"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/start-dashboard.bat",
+      "size": 115,
+      "sha256": "79db198511b82a48fa866aaf2eaf811a17b470e2d44994d0e67098b94305e0c3"
+    },
+    {
+      "path": "skills/jobhuntbot/dashboard/start-dashboard.sh",
+      "size": 238,
+      "sha256": "3268ff711aa14085e4fe88bb4525751eb0c4acf5eb777c68f493d8eabf21a0dc"
+    },
+    {
+      "path": "skills/jobhuntbot/LICENSE",
+      "size": 1165,
+      "sha256": "0ffaa4b63de19336c64b636c4efe6e807c51cfed7c19ec86ebffc1afbddc304c"
+    },
+    {
+      "path": "skills/jobhuntbot/references/application-playbook.md",
+      "size": 11938,
+      "sha256": "0c7d28c7063103b0f8ee261ce22ba65d31769c3c110a85b9f65331b5a037ec5a"
+    },
+    {
+      "path": "skills/jobhuntbot/references/candidate-context.md",
+      "size": 1192,
+      "sha256": "f5abf37fb2a29ea23dc2f8d41c39a5f840a65e772147a378d8d0051999108f9d"
+    },
+    {
+      "path": "skills/jobhuntbot/references/job-screening.md",
+      "size": 8726,
+      "sha256": "d7403d49c31005a7defd6182260e8296712368c43fcd48ea2822960a71eda25a"
+    },
+    {
+      "path": "skills/jobhuntbot/references/safety-and-boundaries.md",
+      "size": 2438,
+      "sha256": "df5a0af044ebedc12de1388ca57aecb8081e2ad89868161c9a158119c39cf806"
+    },
+    {
+      "path": "skills/jobhuntbot/references/setup-workflow.md",
+      "size": 15467,
+      "sha256": "be275d57e40fa42c8289dea1db525f7dc0a53e7bda10c5a67b890fedf2315d08"
+    },
+    {
+      "path": "skills/jobhuntbot/SKILL.md",
+      "size": 6742,
+      "sha256": "be646d3a55ac7610bc0253c8d0cb6f4ceec11d33d53341eb0b4833258eebe3a2"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/answer_bank.template.md",
+      "size": 2579,
+      "sha256": "9df275df5a594816b1cb9e0473b87d24956071f2491819dc185930311da41ce9"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/application_rules.template.md",
+      "size": 4234,
+      "sha256": "c218ba83e1cc4909b006b72bf9d1236ead2e3810b4cfec4c375ac8f5ae61929d"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/candidate_profile.template.json",
+      "size": 2010,
+      "sha256": "c81e5598f7efdaa2644c2cb445683f5c2ca05b5f78b23e411fe76cc8006c0cf0"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/application_log.csv",
+      "size": 142,
+      "sha256": "40dda41810a4120b8a80730c2d377554d60fa4b342eea711944c0fd818f54a85"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/automation_rules.csv",
+      "size": 64,
+      "sha256": "1c8083bdd388c06057da4048657c19020a1ec66b480b0c46dbe80ebc9c7665bb"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/blocker_queue.csv",
+      "size": 131,
+      "sha256": "ede3ab5b634d8217047714d667cdcc888942761d1d6f33149df28960bc236eb6"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/daily_dashboard.csv",
+      "size": 133,
+      "sha256": "899cb1335270962287fd251c5ef331237256efc156ce92b24b9096ffbbec68ce"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/follow_up.csv",
+      "size": 90,
+      "sha256": "94e536ecbfea2829204a920ff2117870adbc60aa953fa3d1f8e5f094365071d4"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/job_pool.csv",
+      "size": 201,
+      "sha256": "7e7d85eba9c9b627293eb301cdccfc9654185d9848a4b6cffb42d928561f5bfd"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/README.md",
+      "size": 4892,
+      "sha256": "3731304fce993fe91673b405701f8df09ee36936a5c3206ffc3765e6eab4c927"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/dashboard-template/resume_rules.csv",
+      "size": 85,
+      "sha256": "b5be545c5c0736db5911285c610f29fb64a755a18a02b3949cd939412d778923"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/experience_bank.template.md",
+      "size": 4582,
+      "sha256": "5c111cdae553443da40712131e802249632f40b0678b5d6d0782133e751f02a9"
+    },
+    {
+      "path": "skills/jobhuntbot/templates/resume_routing.template.md",
+      "size": 3266,
+      "sha256": "c6c143f77d1e6b2259bd91bb94ac73e3fc0237ae6d57ce8c8aa39989fa5947a3"
+    },
+    {
+      "path": "skills/resume-application/agents/openai.yaml",
+      "size": 407,
+      "sha256": "50e9a4372e149229f46861ed99ee688f37e0268f739b193a8eb508f66d797ab4"
+    },
+    {
+      "path": "skills/resume-application/references/browser-playbook.md",
+      "size": 2010,
+      "sha256": "372aaeb8c3206c9a1e13239cd2f01a71422b84701dae2a8355fb175cd0ddc2bd"
+    },
+    {
+      "path": "skills/resume-application/references/profile-location.md",
+      "size": 1074,
+      "sha256": "fc1db46caf603faecd53124ddd80036029aa076039eebf6bb96bd16a68c5e96c"
+    },
+    {
+      "path": "skills/resume-application/SKILL.md",
+      "size": 4929,
+      "sha256": "1110fb582ab0b798c6a0a5fc962ab0d6e9ecd6ea9886549a3a1f308ac138aba1"
+    },
+    {
+      "path": "THIRD_PARTY_NOTICES.md",
+      "size": 697,
+      "sha256": "7a5d159a6a678044c6e011205ad8ff0d95783b2ec75bb45b09f8abf190657c4d"
+    }
+  ]
+}
