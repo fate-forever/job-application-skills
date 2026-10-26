@@ -1,0 +1,7 @@
+interface:
+  display_name: "中文网申填写助手"
+  short_description: "复用已确认个人资料填写中文网申，逐条保存、回读核验并汇总待确认项"
+  default_prompt: "使用 $resume-application 读取我的个人资料，填写当前官方网申，每条记录保存并核对，缺失信息集中问我，先不要最终提交。"
+
+policy:
+  allow_implicit_invocation: true
