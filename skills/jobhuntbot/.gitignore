@@ -1,0 +1,8 @@
+my-materials/
+private/
+candidate_profile.json
+application_rules.md
+resume_routing.md
+answer_bank.md
+experience_bank.md
+dashboard/*.csv
