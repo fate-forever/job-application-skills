@@ -1,0 +1,4 @@
+interface:
+  display_name: "逐家公司筛选未投岗位"
+  short_description: "核对官方岗位、简历与投递记录，发现即保存，保留断点持续续查"
+  default_prompt: "使用 $company-job-screening 继续之前的逐家公司找岗任务，按最新资料去重，每发现一个岗位就保存到原文档。"
