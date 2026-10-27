@@ -50,7 +50,7 @@ Target candidate pool per role family: **3-5 internships + 3+ projects** rated `
 
 1. Pull the `强`/`中` experiences for the target role family from the matrix as a candidate pool.
 2. Read the actual JD and pick 2-4 experiences from that pool that best fit it — favor `强` matches, but a `中` match that hits something the JD specifically calls out can outrank a `强` match that doesn't. If the JD emphasizes something the pool underrepresents, pull in a different experience from the inventory instead of forcing a weak fit.
-3. **Before using the selected experiences, tell the user which ones were picked and why** — a short list with one-line reasoning. This is a checkpoint, not an optional step: don't pick silently and move straight to filling the form.
+3. **Before using the selected experiences, tell the user which ones were picked and why** — a short list with one-line reasoning. Explain the choice briefly; it does not introduce another approval stop when the existing request already authorizes the work.
 4. For self-evaluation/cover-letter fields, synthesize the selected experiences with the candidate's personality and this specific company/role fit — don't write a list dump.
 5. After submitting, record which experiences were actually used in `application_log`'s notes, so a later application to a similar role or company can reuse the reasoning instead of re-deriving it.
 6. **Truthfulness rule**: only reorder, select, and emphasize — never invent, exaggerate, or stretch an experience to make it look like a better fit than it is. A blank cell in the matrix stays blank; a thin candidate pool stays thin. If nothing in the bank fits well, say so and use the closest honest match.

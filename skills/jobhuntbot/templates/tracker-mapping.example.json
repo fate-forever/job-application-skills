@@ -1,0 +1,13 @@
+{
+  "fields": {
+    "company": "company",
+    "title": "role",
+    "job_id": "jobId",
+    "department": "department",
+    "cohort": "cohort",
+    "record_id": "id",
+    "updated_at": "updatedAt",
+    "status": "status"
+  },
+  "status_order": {}
+}
