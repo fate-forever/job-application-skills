@@ -1,0 +1,11 @@
+{
+  "schema_version": 2,
+  "candidate_data": "private/candidate-data.json",
+  "candidate_profile": "",
+  "resume_files": [],
+  "screening_data": "private/screening.json",
+  "application_ledger": "",
+  "document_pointer": "",
+  "local_backup": "",
+  "resume_checkpoint": ""
+}

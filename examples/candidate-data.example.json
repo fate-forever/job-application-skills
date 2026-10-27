@@ -1,12 +1,7 @@
 {
-  "updated_at": null,
-  "personal_snapshot": {},
-  "reuse_preferences": {},
-  "education": [],
-  "internships": [],
-  "projects": [],
-  "qualifications": [],
-  "awards": [],
-  "application_contexts": {},
-  "notes": "Empty template. Populate only confirmed facts in your private workspace."
+  "schema_version": 2,
+  "facts": [],
+  "resumes": [],
+  "preferences": {},
+  "application_contexts": {}
 }

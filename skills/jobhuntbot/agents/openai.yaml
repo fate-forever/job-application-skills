@@ -1,0 +1,7 @@
+interface:
+  display_name: "岗位筛选与投递决策"
+  short_description: "依据真实资料核对资格、比较岗位、选择简历，并预览有证据的台账变更"
+  default_prompt: "使用 $jobhuntbot，结合我的简历和最新投递记录比较官方岗位，先只做建议，说明首选、缺口和未核实条件。"
+
+policy:
+  allow_implicit_invocation: true

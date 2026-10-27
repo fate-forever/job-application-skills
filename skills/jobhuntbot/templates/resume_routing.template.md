@@ -9,7 +9,7 @@ Choose one:
 
 Selected strategy:
 
-If unsure, start with Volume. Promote a specific high-fit role to Precision when it is worth tailoring.
+Use the current request to choose existing resume routing or targeted tailoring; ask only if the distinction changes the requested work.
 
 ## Resume File Format
 

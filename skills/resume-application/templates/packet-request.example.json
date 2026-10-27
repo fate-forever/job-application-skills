@@ -1,0 +1,16 @@
+{
+  "target": {
+    "company": "",
+    "job_id": "",
+    "department": "",
+    "cohort": ""
+  },
+  "resume_id": "",
+  "authorization": {
+    "fill": false,
+    "save": false,
+    "submit": false
+  },
+  "fields": [],
+  "modules": []
+}

@@ -16,7 +16,7 @@ Choose one:
 
 Selected mode:
 
-Default: Volume. Promote a specific high-fit role to Precision when it is worth tailoring.
+Follow the current user goal. Do not assume volume, automatic recording or submission.
 
 ## First Trial Boundary
 
@@ -86,7 +86,7 @@ Default form behavior:
 - Ask focused questions for high-impact missing facts instead of stopping the entire workflow.
 - Leave voluntary self-ID blank or choose "Prefer not to say" when allowed unless exact answers are configured.
 - Draft custom answers from Answer Bank patterns; ask the user to confirm when no pattern exists.
-- Always stop before final submit with a short summary.
+- Require specific final-submit authorization; do not repeat it when already granted for the unchanged application. Follow active tool confirmation requirements.
 
 Low-friction applications for Volume mode / first tests:
 
