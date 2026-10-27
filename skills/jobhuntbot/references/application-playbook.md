@@ -8,9 +8,9 @@ Use this reference for browser-based job applications, LinkedIn Easy Apply, Simp
 - Prefer short, reliable paths over long custom forms.
 - Close each completed or skipped job tab before moving on.
 - Keep only tabs that need user handoff.
-- Record every outcome in the dashboard.
+- Record outcomes only within the user-authorized recording scope, using the existing tracker; a dashboard is optional.
 - Stop rather than bypass verification or guess high-impact answers.
-- Do not create separate "test" and "normal" behavior modes. Use one default behavior: automate clear low-risk fields, ask focused questions for missing high-impact facts, and always stop before final submit.
+- Do not create separate "test" and "normal" behavior modes. Use one default behavior: automate clear low-risk fields, ask focused questions for missing high-impact facts, and require specific submission authorization without repeating an authorization already covering the unchanged application.
 
 ## Batch Filling & Consolidated Verification
 
@@ -22,7 +22,7 @@ Use this execution pattern by default with the current authorized browser tool:
 4. **Audit together.** After the module is saved, read back all its values, entry counts, date controls, save status, and validation errors in one inspection. Return a compact coverage/result summary plus mismatches, missing values, and errors. Do not read the full page or take a screenshot after every successful field. Use broader inspection for an unfamiliar page, the final whole-application review, or a problem that scoped inspection cannot explain.
 5. **Repair only differences.** If a batch partially fails, inspect the current state and resume from the unfinished fields. Preserve correct values and saved entries; check before adding an entry again to avoid duplicates. Retry a failed interaction once with a targeted alternative, then report the remaining blocker instead of replaying the entire batch.
 
-Collect missing facts and custom-answer confirmations into one focused request where possible, and continue independent confirmed fields while waiting. Keep verification, login, permission, and final-submission boundaries intact. Before final approval, audit the whole application together, including attachments and every required experience; batching changes the number of round trips, not the coverage of checks. After an authorized submission is confirmed, batch the required local dashboard updates and their consistency checks immediately, before starting another company.
+Collect missing facts and custom-answer confirmations into one focused request where possible, and continue independent confirmed fields while waiting. Keep verification, login, permission, and final-submission boundaries intact. Before final submission, audit the whole application together, including attachments and every required experience; batching changes the number of round trips, not the coverage of checks. After an authorized submission is confirmed, batch the required local dashboard updates and their consistency checks immediately, before starting another company.
 
 ### Completion Audit Coverage
 
@@ -37,7 +37,7 @@ Collect missing facts and custom-answer confirmations into one focused request w
 - Work authorization, sponsorship, and compensation can be filled only when wording matches the profile or answer bank closely.
 - Voluntary self-ID defaults to blank, "Prefer not to say", or decline/skip when available unless the user configured exact answers.
 - Custom questions should use answer-bank patterns when available. If no pattern exists, draft the specific answer and ask the user to confirm it.
-- Final submit always requires user approval. Show a concise summary before the final click.
+- Final submit requires explicit authorization for this application. Present the actual packet and unresolved issues; do not ask again when current authorization already covers unchanged content. Follow any action-time confirmation required by the active tool.
 
 ## Low-Friction Applications
 
@@ -123,7 +123,7 @@ Submission evidence can include:
 
 - Visible text like `Application submitted`, `Application sent`, or `Thank you for applying`.
 - A thank-you page.
-- URL patterns like `thanks`, `thank-you`, `submitted`, or `confirmation`.
+- A target-specific confirmation page with explicit success content; a URL pattern alone is not evidence.
 - A platform status that clearly says the application was sent.
 
 Do not count:
@@ -213,3 +213,11 @@ Greenhouse email security code SOP:
 
 - Skip or defer long login-heavy flows unless fit is strong.
 - Record maintenance, account creation, or login blockers.
+
+## Packet and persistence evidence
+
+Use stable IDs to distinguish internships, projects and repeated entries. Inspect the actual saved date controls, not dates embedded in prose. Resume parsing, the personal profile, a specific job form and its final attachment can be independent; verify each applicable surface. Do not re-parse a corrected form merely to upload its final attachment.
+
+Read actual length limits before saving. A closed form or an enabled save button does not prove persistence. A preview completeness score may omit optional or unsaved experience modules. Compare expected and saved values after reopening or refreshing, repair only differences, and do not copy expected data into an observation record as if it were read back.
+
+If available, the independent resume-application skill provides a source-scoped packet and evidence checker. It is optional: this skill remains usable on its own. Record the selected resume version and evidence, module coverage, unresolved fields and next action in the existing private application record. A changed profile, material or target invalidates the corresponding old review.
